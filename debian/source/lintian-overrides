@@ -1,0 +1,8 @@
+# you’re kidding me, right?
+pax source: cute-field
+
+# there is only gzsig, not pgp
+pax source: debian-watch-does-not-check-openpgp-signature
+
+# human-readable copyright file preferred
+pax source: no-dep5-copyright
