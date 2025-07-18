@@ -1,0 +1,4 @@
+# false positive (#966316)
+pax: acute-accent-in-manual-page [usr/share/man/man1/pax.1.gz:49]
+pax: acute-accent-in-manual-page [usr/share/man/man1/paxcpio.1.gz:38]
+pax: acute-accent-in-manual-page [usr/share/man/man1/paxtar.1.gz:38]
